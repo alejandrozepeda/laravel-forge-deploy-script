@@ -1,4 +1,5 @@
 ZERO DOWNTIME SCRIPT
+Based on https://vincek.co/zero-downtime-deployments-for-laravel-forge/
 ```
 BASE="devjoinfanco"
 SITE="dev.joinfan.co"
